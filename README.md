@@ -1,8 +1,8 @@
 # Anime_Face_GAN
-This repository present a Generative adversarial network project to generate images with anime faces. For learning I used Anime Face Dataset containing of 63 632 cropped images by Mckinsey666. Image sizes in used dataset vary from 90x90 to 120x120.
+This repository presents a Generative Adversarial Network project to generate images with anime faces. For learning I used Anime Face Dataset containing of 63 632 cropped images by Mckinsey666. Image sizes in used dataset vary from 90x90 to 120x120.
 
 ## How to run
-### Downloading dataset
+### Downloading the dataset
 Since we are using opendatasets library, which uses the Kaggle Official API to download the dataset from Kaggle, in order to run the code you will need to use your own API credentials. Follow these steps to find your API credentials:
 1. Sign in to https://kaggle.com/, then click on your profile picture on the top right and select "My Account" from the menu.
 2. Scroll down to the "API" section and click "Create New API Token". This will download a file kaggle.json with the following contents:
